@@ -108,8 +108,6 @@ http://127.0.0.1:5000/summary?url=https://www.youtube.com/watch?v=VIDEO_ID
 * Improved summarization accuracy
 * UI enhancements
 * Deployment on cloud for public access
+* Text to Speech to read out the summary
 
-## License
-
-This project is for educational and hackathon purposes.
 
