@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+venv311/
+
+# VS Code
+.vscode/
+
+# HuggingFace cache 
+hf_cache/
+backend/hf_cache/
+
+# OS files
+.DS_Store
